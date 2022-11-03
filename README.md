@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KashifRehmanPK
 - 👀 I’m interested in ...Androide & XR
-- 🌱 I’m currently learning ...Androide Development
+- 🌱 I’m currently learning ...Android Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
