@@ -46,7 +46,7 @@ Welcome to my GitHub! I'm *Kashif Rehman*, an enthusiastic Android Developer spe
   - *Link:*
     - [Xyron Academy - Study Notes](https://play.google.com/store/apps/details?id=com.xyrontech.skillswisp_android&pli=1)  
 
-....................................................................................................................................
+................................................................................................................................................................................................................................................
 
 - *Read Islam*
     - *(Java)*
@@ -57,8 +57,10 @@ Welcome to my GitHub! I'm *Kashif Rehman*, an enthusiastic Android Developer spe
     - *This is a prayer reminder app. This app contains many features like Tasbeeh counter, Kalmas, Islamic Stories, Masnoon Duain, Compass, etc.*
   - *Skills:*
     - *Java, Retrofit, Glide, Git, MVC, XML, Firebase Firestore/Crashlytics/Analytics, Map Location Service*
+  - *Link:*
+    - [Read Islam - Learn Islam ways](https://play.google.com/store/apps/details?id=com.neonstudio.readislam_prayertiming_kalma_hadees_masnoonduain)  
 
-...................................................................................................................................
+................................................................................................................................................................................................................................................
 
 - *WhatsApp Status Downloader*
     - *(Java)*
@@ -68,8 +70,10 @@ Welcome to my GitHub! I'm *Kashif Rehman*, an enthusiastic Android Developer spe
     - *Users can Download/Share their friends WhatsApp statuses using our app.*
   - *Skills:*
     - *Java, MVC, XML, Glide*
+  - *Link:*
+    - [VideoMate - Status Downloader](https://play.google.com/store/apps/details?id=com.xyrontech.videomate)  
 
-..................................................................................................................................
+................................................................................................................................................................................................................................................
 
 - *Kahani Ghar*
     - *(Kotlin)*
@@ -79,8 +83,10 @@ Welcome to my GitHub! I'm *Kashif Rehman*, an enthusiastic Android Developer spe
     - *This is a small project in which we can read bed time stories to our kids.*
   - *Skills:*
     - *Kotlin, XML, Firestore DB, MVC*
+  - *Link:*
+    - [Kahani Ghar - Bedtime Stories](https://play.google.com/store/apps/details?id=com.neonstudio.kahanigharreal)  
 
-....................................................................................................................................
+................................................................................................................................................................................................................................................
 
 - *POS (Fruit Market and Shops)*
     - *(Java)*
