@@ -44,7 +44,7 @@ Welcome to my GitHub! I'm *Kashif Rehman*, an enthusiastic Android Developer spe
   - *Skills:*
     - *Java/Kotlin, Data Binding, View Binding, Git, MVC, MVVM, XML, Google Maps, Room DB, Navigation Components, Firebase Firestore/ Auth/Storage/Crashlytics /Analytics, PDF Viewer, Glide, Dexter, Libphonenumber Library*
   - *Link:*
-    - [Xyron Academy - Study Notes](mailto:https://play.google.com/store/apps/details?id=com.xyrontech.skillswisp_android&pli=1)  
+    - [Xyron Academy - Study Notes](https://play.google.com/store/apps/details?id=com.xyrontech.skillswisp_android&pli=1)  
 
 ....................................................................................................................................
 
