@@ -41,6 +41,8 @@ Welcome to my GitHub! I'm *Kashif Rehman*, an enthusiastic Android Developer spe
 
   - *Description:*
     - *Notes App specially designed for students and teachers. They can share their notes for free or make them available for purchase via this app. Work is in progress to enable Android Tablet Stylus.*
+  - *Problem It Solves:*
+    - *When we were in our FSc level we did not have any option to have handwritten notes either from our teacher which they would never give us directly and also on the internet where we could not find anything else then find a bunch of guides that no one was interested in to read b/c they were too bulky to read/memorize, So this app lets students and teachers sell or buy notes for free, Made by other students to learn any subject/course they want no maters their educational level*
   - *Skills:*
     - *Java/Kotlin, Data Binding, View Binding, Git, MVC, MVVM, XML, Google Maps, Room DB, Navigation Components, Firebase Firestore/ Auth/Storage/Crashlytics /Analytics, PDF Viewer, Glide, Dexter, Libphonenumber Library*
   - *Link:*
@@ -55,6 +57,8 @@ Welcome to my GitHub! I'm *Kashif Rehman*, an enthusiastic Android Developer spe
 
   - *Description:*
     - *This is a prayer reminder app. This app contains many features like Tasbeeh counter, Kalmas, Islamic Stories, Masnoon Duain, Compass, etc.*
+  - *Problem It Solves:*
+    - *This app  ensures you never miss a prayer by sending reminders whenever it is prayer time (five times a day).*
   - *Skills:*
     - *Java, Retrofit, Glide, Git, MVC, XML, Firebase Firestore/Crashlytics/Analytics, Map Location Service*
   - *Link:*
@@ -68,6 +72,8 @@ Welcome to my GitHub! I'm *Kashif Rehman*, an enthusiastic Android Developer spe
 
   - *Description:*
     - *Users can Download/Share their friends WhatsApp statuses using our app.*
+  - *Problem It Solves:*
+    - *This app allows users to download and reshare WhatsApp statuses from others, supporting both regular WhatsApp and WhatsApp Business.*
   - *Skills:*
     - *Java, MVC, XML, Glide*
   - *Link:*
@@ -94,6 +100,8 @@ Welcome to my GitHub! I'm *Kashif Rehman*, an enthusiastic Android Developer spe
 
   - *Description:*
     - *This is a desktop software developed for a large fruit market store. It manages all finances like buying and selling of goods to and from customers, such as retail shops. And software also handles the inventory that is coming into and going   out from fruit warehouse.*
+  - *Problem It Solves:*
+    - *A desktop software for managing finances and inventory in a large fruit market store, streamlining transactions and stock tracking.*
   - *Skills:*
     - *Java, JavaFx, MySQL*
 
