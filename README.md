@@ -111,7 +111,6 @@ Welcome to my GitHub! I'm *Kashif Rehman*, an enthusiastic Android Developer spe
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KashifRehmanPK&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=60)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KashifRehmanPK&layout=compact&theme=tokyonight)  
 
 ---
