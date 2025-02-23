@@ -106,13 +106,6 @@ Welcome to my GitHub! I'm *Kashif Rehman*, an enthusiastic Android Developer spe
     - *Java, JavaFx, MySQL*
 
 
-
----
-
-## 📈 GitHub Stats  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KashifRehmanPK&layout=compact&theme=tokyonight)  
-
 ---
 
 ## 📫 Let's Connect!  
